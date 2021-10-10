@@ -1,5 +1,5 @@
 # Assignment_2
-Python3 wrapper around the [CoinGecko](https://www.coingecko.com/ru) API (V3)
+Python3 wrapper around the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) (V4)
 
 ## Installation
 BeautifulSoup
